@@ -1,0 +1,19 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio 2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (QuadsViewer.vcxproj, RadiositySolver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  radiosityviewer.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(108,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(119,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(125,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(140,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(143,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(255,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(373,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(373,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(376,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(391,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(392,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiosityviewer.cpp(393,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  common.cpp
+  RadiosityViewer.vcxproj -> C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\Debug\RadiosityViewer.exe

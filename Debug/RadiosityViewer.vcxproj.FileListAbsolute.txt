@@ -1,0 +1,2 @@
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\Debug\RadiosityViewer.exe
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\Debug\RadiosityViewer.pdb

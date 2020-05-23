@@ -1,0 +1,25 @@
+﻿  common.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\common.cpp(18,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\common.cpp(33,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\common.cpp(48,5): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  quadmodel.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(120,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(166,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(181,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(194,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(213,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(227,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(237,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(255,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(271,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(281,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(295,18): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadmodel.cpp(607,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  radiositysolver.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiositysolver.cpp(206,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiositysolver.cpp(229,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiositysolver.cpp(389,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\radiositysolver.cpp(492,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  RadiositySolver.vcxproj -> C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\Release\RadiositySolver.exe

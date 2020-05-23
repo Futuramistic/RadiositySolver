@@ -1,0 +1,32 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio 2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RadiositySolver.vcxproj, RadiosityViewer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  trackball.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(193,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(216,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(223,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(224,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(226,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(228,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(229,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\trackball.cpp(230,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  quadsviewer.cpp
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(27,61): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(28,61): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(29,62): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(33,61): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(34,61): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(35,62): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\quadsviewer.cpp(299,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating Code...
+common.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  QuadsViewer.vcxproj -> C:\Users\werer\Desktop\cs4247_1920S2_assign4_todo\Debug\QuadsViewer.exe
